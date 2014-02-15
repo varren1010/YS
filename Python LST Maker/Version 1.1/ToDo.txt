@@ -1,0 +1,5 @@
+Find out how to delete lines
+
+Menu for insert/delete lines 
+
+Scenery editor .lst creator + menu
